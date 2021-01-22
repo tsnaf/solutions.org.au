@@ -113,7 +113,7 @@
       "textButton": "Agree"
     },
     "gdpr": false,
-    "site_lang": "undefined",
+    "site_lang": "en",
     "pwa-switcher": false,
     "witsec-white-label": true,
     "witsec-mailform": false,
